@@ -7,6 +7,7 @@
 | Mohammed Showgi          | https://github.com/MohammedS26  |
 | Christian Eieland Ålykkja | https://github.com/Lordkissa97/IND-REPOSITARY |
 | Vi The Thach             | https://github.com/thevithach   |
+| Nam Hao Tra Ngo | https://github.com/SwornStar |
 
 Møtelogg:
 Dato: 01.9.2022:
