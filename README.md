@@ -2,10 +2,11 @@
 
 # IS-114-progammering
 | Navn                     | GitHub URL                      |
-|--------------------------|---------------------------------| | 
+|--------------------------|---------------------------------| |
 | Felix Fabricius Knutsen  | https://github.com/FelixKnutsen |
-| Mohammed Showgi          | https://github.com/MohammedS26 
+| Mohammed Showgi          | https://github.com/MohammedS26  |
 | Christian Eieland Ålykkja | https://github.com/Lordkissa97/IND-REPOSITARY |
+| Vi The Thach             | https://github.com/thevithach   |
 
 Møtelogg:
 Dato: 01.9.2022:
