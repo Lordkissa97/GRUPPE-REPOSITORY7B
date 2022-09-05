@@ -21,3 +21,4 @@ Oppmøtte: Daniel, Vi, Nam, Felix, Mohammed, Adrian og Christian.
 - Alle har kjørt pull request gjennom Github som er godkjent gjennom gruppe eier: Christian
 
 Felles gruppeforståelse for GitHub: 2
+-
