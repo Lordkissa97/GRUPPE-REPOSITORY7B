@@ -4,7 +4,7 @@
 | Navn                     | GitHub URL                      |
 |--------------------------|---------------------------------| | 
 | Felix Fabricius Knutsen  | https://github.com/FelixKnutsen |
-|   |
+| Vi The Thach             | https://github.com/thevithach   |
 
 Møtelogg:
 Dato: 01.9.2022:
