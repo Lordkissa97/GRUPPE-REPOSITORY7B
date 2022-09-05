@@ -8,6 +8,7 @@
 | Christian Eieland Ålykkja | https://github.com/Lordkissa97/IND-REPOSITARY |
 | Vi The Thach             | https://github.com/thevithach   |
 | Nam Hao Tra Ngo | https://github.com/SwornStar |
+| Daniel Dahle Gray |  https://github.com/danieldg9 |
 
 Møtelogg:
 Dato: 01.9.2022:
