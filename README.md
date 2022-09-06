@@ -1,14 +1,14 @@
 # GRUPPE-REPOSITORY7B
 
 # IS-114-progammering
-| Navn                     | GitHub URL                      |
-|--------------------------|---------------------------------|
+| Navn                     | GitHub URL                     |
+|--------------------------|--------------------------------|
 | Felix Fabricius Knutsen  | https://github.com/FelixKnutsen |
-| Mohammed Showgi          | https://github.com/MohammedS26  |
+| Mohammed Showgi          | https://github.com/MohammedS26 |
 | Christian Eieland Ålykkja | https://github.com/Lordkissa97/IND-REPOSITARY |
-| Vi The Thach             | https://github.com/thevithach   |
+| Vi The Thach             | https://github.com/thevithach  |
 | Nam Hao Tra Ngo | https://github.com/SwornStar |
-| Daniel Dahle Gray |  https://github.com/danieldg9 |
+| Daniel Dahle Gray |  https://github.com/danieldg9|
 
 Møtelogg:
 Dato: 01.9.2022:
