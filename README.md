@@ -9,7 +9,7 @@
 | Vi The Thach             | https://github.com/thevithach  |
 | Nam Hao Tra Ngo | https://github.com/SwornStar |
 | Daniel Dahle Gray |  https://github.com/danieldg9|
-
+| Adrian Kristoffer Viken | https://github.com/Adriankv1 |
 Møtelogg:
 Dato: 01.9.2022:
 Oppmøtte: Daniel, Vi, Nam, Felix, Mohammed, Adrian og Christian.
