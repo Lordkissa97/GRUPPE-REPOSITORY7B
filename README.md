@@ -5,10 +5,12 @@
 |--------------------------|--------------------------------|
 | Felix Fabricius Knutsen  | https://github.com/FelixKnutsen |
 | Mohammed Showgi          | https://github.com/MohammedS26 |
-| Christian Eieland Ålykkja | https://github.com/Lordkissa97/IND-REPOSITARY |
+| Christian Eieland Ålykkja | https://github.com/Lordkissa97 |
 | Vi The Thach             | https://github.com/thevithach  |
 | Nam Hao Tra Ngo | https://github.com/SwornStar |
 | Daniel Dahle Gray |  https://github.com/danieldg9|
+| Adrian Kristoffer Viken | https://github.com/Adriankv1 |
+
 
 Møtelogg:
 Dato: 01.9.2022:
