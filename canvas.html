@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8" />
+    <title>Canvas test</title>
+    <script type="application/javascript">
+        function draw() {
+            const canvas = document.getElementById("canvas");
+            if (canvas.getContext) {
+                const ctx = canvas.getContext("2d");
+
+                ctx.fillStyle = "rgb(0, 0, 0)";
+                ctx.fillRect(650, 30, 200, 50);
+
+                ctx.fillStyle = "rgba(215, 41, 28)";
+                ctx.fillRect(650, 80, 200, 50);
+
+                ctx.fillStyle = "rgba(255, 205, 0)";
+                ctx.fillRect(650, 130, 200, 50);
+            }
+        }
+    </script>
+    <header>
+        <a href="index.html">Tilbake til Main</a>
+
+    </header>
+</head>
+<body onload="draw();">
+<canvas id="canvas" width="1920px" height="1080px"></canvas>
+</body>
+</html>

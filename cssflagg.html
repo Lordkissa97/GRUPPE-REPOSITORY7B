@@ -2,47 +2,132 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Flagg i CSS</title>
+    <h1 id="tekst">Flagg.css</h1>
   <style>
-    #French_Flag {
-      max-height: 80px;
-      max-width: 120px;
-      align-content: center
-    }
-    .blue {
+
+    .bluehigh {
       background-color: #002654;
-      height: 80px;
-      width: 40px;
+      height: 160px;
+      width: 80px;
       float: left
     }
-    .white {
+    .whitehigh {
       background-color: #FFFFFF;
-      height: 80px;
-      width: 40px;
+      height: 160px;
+      width: 80px;
       float: left
     }
-    .red
+    .redhigh
     {
       background-color: #ED2939;
-      height: 80px;
-      width: 40px;
+      height: 160px;
+      width: 80px;
       float: left
     }
+
+    .redlaying
+    {
+        background-color: #DD0000;
+        height: 50px;
+        width: 250px;
+        margin: 0px;
+    }
+
+    .blacklaying
+    {
+        background-color: #000;
+        height: 50px;
+        width: 250px;
+        margin: 0px;
+    }
+
+    .yellowlaying {
+        background-color: #FFCE00;
+        height: 50px;
+        width: 250px;
+        margin: 0px;
+    }
+
+    .red2
+    {
+        background-color: #A4343A;
+        height: 60px;
+        width: 250px;
+        float: auto;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+
+    .white2 {
+        background-color: #FFFFFF;
+        height: 25px;
+        width: 250px;
+        float: auto;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+    #tekst{
+        text-align: center;
+    }
+
+    #germanFlag{
+        margin-left: 650px;
+        margin-top: 250px;
+        max-height: 160px;
+        max-width: 240px;
+
+    }
+
+    #frenchFlag {
+        margin-left: 650px;
+        max-height: 160px;
+        max-width: 240px;
+
+    }
+
+    #Latvian_Flag {
+        margin-left: 650px;
+        margin-top: 75px;
+        max-height: 160px;
+        max-width: 240px;
+
+    }
+
     /* https://www.flagcolorcodes.com/france <-- French Flag Colours!!
     Ratio found via google search "french flag ratio",
-    the first result displays its proportions.
+    the first result displays its proportions.*/
 
 
-     */
+
+
   </style>
 </head>
 
-<body>
+<body style=" background-color: antiquewhite;">
 
-<div id="French_Flag">
-  <p class="blue"></p>
-  <p class="white"></p>
-  <p class="red"></p>
+<header>
+    <a href="index.html">Tilbake til Main</a>
+
+</header>
+
+<div id="frenchFlag">
+  <p class="bluehigh"></p>
+  <p class="whitehigh"></p>
+  <p class="redhigh"></p>
+</div>
+
+
+<div id="germanFlag">
+    <p class="blacklaying"></p>
+    <p class="redlaying"></p>
+    <p class="yellowlaying"></p>
+</div>
+
+<div id="Latvian_Flag">
+    <p class="red2"></p>
+    <p class="white2"></p>
+    <p class="red2"></p>
 </div>
 
 </body>
