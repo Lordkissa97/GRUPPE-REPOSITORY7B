@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en-US" style="overflow: hidden;">
+<head>
+    <meta charset="UTF-8" />
+    <title>Canvas test</title>
+    <script type="application/javascript">
+        function draw() {
+            const canvas = document.getElementById("canvas");
+            if (canvas.getContext) {
+                const ctx = canvas.getContext("2d");
+
+                ctx.fillStyle = "#000000"; //black
+                ctx.fillRect(650, 100, 200, 40);
+
+                ctx.fillStyle = "#DD0000"; //red
+                ctx.fillRect(650, 140, 200, 40);
+
+                ctx.fillStyle = "#FFCC00"; //yellow
+                ctx.fillRect(650, 180, 200, 40);
+
+
+                ctx.fillStyle = "#002654";     //blue
+                ctx.fillRect(650, 300, 66.33, 130);
+
+                ctx.fillStyle = "#FFFFFF";     //white
+                ctx.fillRect(716.34, 300, 66.33, 130);
+
+                ctx.fillStyle = "#ED2939";     //red
+                ctx.fillRect(782.67, 300, 66.33, 130);
+
+
+                ctx.fillStyle = "#77353D" //darkred
+                ctx.fillRect(650, 500, 200, 50);
+
+                ctx.fillStyle = "#FFFFFF"; //white
+                ctx.fillRect(650, 550, 200, 25);
+
+                ctx.fillStyle = "#77353D"; //darkred
+                ctx.fillRect(650, 575, 200, 50);
+            }
+        }
+
+    </script>
+    <header>
+        <a href="index.html">Tilbake til Main</a>
+    </header>
+</head>
+<body style="background-color: antiquewhite;" onload="draw();">
+<h1 style="text-align: center;">Flagg i Canvas</h1>
+<h2 style="margin-left: 34%; margin-top: 3%; position: fixed;">Germany</h2>
+<h2 style="margin-left: 34%; margin-top: 14%; position: fixed;">France</h2>
+<h2 style="margin-left: 34%; margin-top: 24%; position: fixed;">Latvia</h2>
+<canvas id="canvas" width="1920px" height="1080px"></canvas>
+</body>
+</html>

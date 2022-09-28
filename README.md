@@ -38,3 +38,22 @@ alt feil og ikke brukt IntelliJ til å oppdatere main branch på GitHub.
 - Så å si alle fikk lagt inn fullt navn og URL til Git konto gjennom IntelliJ
 Mangler kun Daniel og Adrian (kl.20:53, 05.09.2022) 
 - Mål om å få alle oppdatert på GitHub og IntelliJ innen 07.09.2022
+
+
+Flagg Oppgave:
+Innleveringsfrist 6. oktober.
+Dato levert: 28. september.
+Utviklere: Mohammed Showgi, Christian Eieland Ålykkja, Vi The Thach, Nam Hao Tra Ngo,
+Daniel Dahle Gray, Adrian Kristoffer Viken, Felix Fabricius Knutsen
+
+-Opprettelse av html document for css og p-element -flagg. 
+-Bruker scrumban-metode til å strukturere og gi ut oppgaver.
+-lagde en liste i "project" der vi valgte oppgave og kunne bestemme mellom hva vi kommer til å gjøre, hva vi holder på med, og når vi er ferdige.
+Vi hadde samtaler om hvem som burde ta hva når det var usikkert. Vi la ekstra fokus på at alle skulle lære hvordan ting fungerer.
+-Vi brøt ned arbeidsoppgaver til å lage et flagg hver.
+-Lagde nye html/css/canvas -document som det ble nødvendig.
+-Hadde 1-3 møter iløpet av ukene der de som hadde forstått kodingen kunne hjelpe og forklare de andre på gruppen.
+-Gruppen brukte ekstra tid for å gjøre nettsidene mer strukturert så det var lettere å manøvere.
+-La inn elementer som bakgrunnsfarge slik det ble lettere å se flaggene.
+-En på gruppen brukte ekstra tid på å "researche" hvordan bruke canvas, så lærte bort til de andre.
+-
