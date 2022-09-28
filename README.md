@@ -56,4 +56,15 @@ Vi hadde samtaler om hvem som burde ta hva når det var usikkert. Vi la ekstra f
 - Gruppen brukte ekstra tid for å gjøre nettsidene mer strukturert så det var lettere å manøvere.
 - La inn elementer som bakgrunnsfarge slik det ble lettere å se flaggene.
 - En på gruppen brukte ekstra tid på å "researche" hvordan bruke canvas, så lærte bort til de andre.
--
+
+- p-flagg:
+P-flagg var den letteste metoden fordi den gjorde vi med kunnskap vi hadde lært i forelesningene.
+Med p-element så kommer en automatisk <br> som gjorde det lett å plassere "boksene" oppå eller ved siden av hverandre.
+Men problemet var også at ved p element så var det vanskelige å plassere ting "oppå" eller ved siden av med den kunnskapen vi hadde.
+vi lærte senere hvordan vi kan bruke position og margin for å gjøre ting 'pent'.
+et annet problem er at man må gjenskrive koden hver gang man skal lage et nytt flagg, og det blir ganske rotete og ustrukturert.
+
+- Css-flagg
+Css-flagg var også en ganske grei måte, det tok litt mer tid og var vanskelig fordi koden man skriver inn er skrevet på 2 forskjellige steder,
+en i css og i html.
+Men motsatt 
