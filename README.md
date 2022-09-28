@@ -70,7 +70,7 @@ en i css og i html.
 Men motsatt til p flagg så er css flagg veldig strukturert og ryddig. det er også lett å bruke some style på flere elementer ved hjelp av class.
 
 
--Canvas
+- Canvas
 Canvas var den vanskeligste og vi fikk lite til ingen opplæring i framgansmåte, syntax eller hva canvas er.
 vi gjorde derfor all research selv, og ente opp med å ta strukturen fra 'mdn' og gjorde det om til vår egen kode, og la til og fjernet elementer.
 Fordel ved canvas er at man kan lage andre elementer som ikke finnes i html og css. men vi tok ikke ibruk de elementene.
