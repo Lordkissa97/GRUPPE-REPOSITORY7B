@@ -74,3 +74,6 @@ Men motsatt til p flagg så er css flagg veldig strukturert og ryddig. det er og
 Canvas var den vanskeligste og vi fikk lite til ingen opplæring i framgansmåte, syntax eller hva canvas er.
 vi gjorde derfor all research selv, og ente opp med å ta strukturen fra 'mdn' og gjorde det om til vår egen kode, og la til og fjernet elementer.
 Fordel ved canvas er at man kan lage andre elementer som ikke finnes i html og css. men vi tok ikke ibruk de elementene.
+Canvas er en vanskelig måte å fram flagg, og er en mer avansert måte å kode, men kan minne litt opp å kode med <p style="">
+
+  
