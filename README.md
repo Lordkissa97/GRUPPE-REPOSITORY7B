@@ -64,16 +64,14 @@ Men problemet var også at ved p element så var det vanskelige å plassere ting
 vi lærte senere hvordan vi kan bruke position og margin for å gjøre ting 'pent'.
 et annet problem er at man må gjenskrive koden hver gang man skal lage et nytt flagg, og det blir ganske rotete og ustrukturert.
 
-- Css-flagg
+- Css-flagg:
 Css-flagg var også en ganske grei måte, det tok litt mer tid og var vanskelig fordi koden man skriver inn er skrevet på 2 forskjellige steder,
 en i css og i html.
 Men motsatt til p flagg så er css flagg veldig strukturert og ryddig. det er også lett å bruke some style på flere elementer ved hjelp av class.
 
 
-- Canvas
+- Canvas:
 Canvas var den vanskeligste og vi fikk lite til ingen opplæring i framgansmåte, syntax eller hva canvas er.
 vi gjorde derfor all research selv, og ente opp med å ta strukturen fra 'mdn' og gjorde det om til vår egen kode, og la til og fjernet elementer.
 Fordel ved canvas er at man kan lage andre elementer som ikke finnes i html og css. men vi tok ikke ibruk de elementene.
-Canvas er en vanskelig måte å fram flagg, og er en mer avansert måte å kode, men kan minne litt opp å kode med p style=""
-
-  .
+Canvas er en vanskelig måte å designe flagg, og er en mer avansert måte å kode, men kan minne litt opp å kode med stylesheet med tanke på struktur.
