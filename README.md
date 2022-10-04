@@ -76,4 +76,4 @@ vi gjorde derfor all research selv, og ente opp med å ta strukturen fra 'mdn' o
 Fordel ved canvas er at man kan lage andre elementer som ikke finnes i html og css. men vi tok ikke ibruk de elementene.
 Canvas er en vanskelig måte å fram flagg, og er en mer avansert måte å kode, men kan minne litt opp å kode med <p style="">
 
-  
+  .
