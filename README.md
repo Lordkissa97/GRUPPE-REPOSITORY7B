@@ -8,7 +8,7 @@
 | Christian Eieland Ålykkja | https://github.com/Lordkissa97 |
 | Vi The Thach             | https://github.com/thevithach  |
 | Nam Hao Tra Ngo | https://github.com/SwornStar |
-| Daniel Dahle Gray |  https://github.com/danieldg9|
+| Daniel Dahle Gray |  https://github.com/danieldg91|
 | Adrian Kristoffer Viken | https://github.com/Adriankv1 |
 
 
